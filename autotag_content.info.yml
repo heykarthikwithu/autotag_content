@@ -1,0 +1,4 @@
+name: Autotag Content
+type: module
+description: Autotag Content with the term values.
+core: 8.x
